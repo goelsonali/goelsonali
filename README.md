@@ -2,6 +2,9 @@
 
 Here are some badges I've earned in my journey
 
+## **Achievements**
+<img width="100" height="100" alt="IMG_8805" src="https://github.com/user-attachments/assets/9f78dcb8-296d-49b1-9f97-747d0cd9ff06" />
+
 ## **Certifications**
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/152d9e9b-8835-4141-850d-11e1c0c4ac59" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b94397f5-acaa-4a0f-8928-c1e369cf22e4" />
