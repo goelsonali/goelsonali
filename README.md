@@ -1,4 +1,7 @@
-# 👋 Welcome to Profile
+# 👋 Sonali Goel Senior Software Development Engineer | Women in Tech Award 2025 Winner
+
+I am an award-winning Senior Software Development Engineer with 15+ years of experience specialising in large-scale e-commerce, cloud-native Java architectures, and Agentic AI. I proud to create dual impact as a technical powerhouse and a dedicated community advocate.
+As a core leader at the Women Coding Community (WCC) and a speaker at venues like Bletchley Park, Imperial College London, I blend technical depth with a passion for mentorship, community initiatives, open source contributions and more. Whether architecting AI learning series or building scalable platforms, I am dedicated to engineering excellence and empowering the next generation of tech leaders.
 
 Here are some badges I've earned in my journey
 
